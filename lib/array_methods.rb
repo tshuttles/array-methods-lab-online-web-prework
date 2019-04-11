@@ -9,7 +9,7 @@ end
 
 def using_reverse(array)
   array = ["hi", "I", "wow"]
-  array.
+  array.reverse
 end
 
 def using_first(array)
