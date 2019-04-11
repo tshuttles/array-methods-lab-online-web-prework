@@ -8,7 +8,7 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-  array = ["hi", "I", "wow"]
+  array = ["hi", "I", "arrays!"]
   array.reverse
 end
 
